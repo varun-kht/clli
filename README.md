@@ -149,20 +149,6 @@ uvicorn app.main:app --reload
 
 ---
 
-## 📖 API Documentation
-
-Swagger UI
-
-```
-http://localhost:8000/docs
-```
-
-ReDoc
-
-```
-http://localhost:8000/redoc
-```
-
 ---
 
 ## 💡 How It Works
