@@ -171,7 +171,7 @@ uvicorn app.main:app --reload
 - Rate limiting
 - Docker Compose deployment
 - CI/CD pipeline
-
+- checkers
 ---
 
 ## 📄 License
